@@ -63,4 +63,5 @@ Update parameters in config.py
 ## Design patterns
 - Strategy (All persons that can interact with user are objects of class videobot). So when user choose person that he/she want to interact, it changes behaviour (LLM prompt, voice and video pattern)
 - Decorators (Built in decorators in Fastapi and Telebot and my own decorator for running function with maximum 5 retries (if we have unsuccessful runs)
+- Pydantic data model and validation (used in wav2lip_api.py for input data validation)
 
