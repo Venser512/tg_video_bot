@@ -65,3 +65,6 @@ Update parameters in config.py
 - Decorators (Built in decorators in Fastapi and Telebot and my own decorator for running function with maximum 5 retries (if we have unsuccessful runs)
 - Pydantic data model and validation (used in wav2lip_api.py for input data validation)
 
+
+P.S. You can communicate with my installation of the bot in telegram group https://t.me/+J4FbZWoPgzY5ODAy
+
